@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import './App.css';
+import "bootstrap/dist/css/bootstrap.min.css";
 import Home from './pages/Home'
 import Projects from './pages/Projects'
 import Experience from './pages/Experience'
