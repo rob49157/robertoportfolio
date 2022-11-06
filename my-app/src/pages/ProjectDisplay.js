@@ -12,6 +12,7 @@ function ProjectDisplay() {
         <h1>{project.name}</h1>
     <img src={project.image}/>
     <p> <b>Skills:</b> {project.Skills}</p>
+     <a href={project.Link}><b>Link</b> </a>
     </div>
   )
 }
