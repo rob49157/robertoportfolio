@@ -26,11 +26,11 @@
   
   .about .prompt {
     width: 40%;
-    font-size: 30px;
+    font-size: 25px;
   }
-  .prompt svg {
-    font-size: 60px;
-    margin: 5px;
+  .prompt  {
+    font-size: 50px;
+    margin: 70px;
     color: white;
   }
   
@@ -62,7 +62,7 @@
     }
   
     .about .prompt {
-      margin-top: 10px;
+      margin-top: 50px;
       font-size: 20px;
       width: 80%;
     }
