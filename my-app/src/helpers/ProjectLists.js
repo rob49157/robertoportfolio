@@ -23,7 +23,7 @@ export const projectList = [
         name:"Tarot Reading",
         image:Maxpage,
         Skills: "React, Css3, JavaScript, Heroku, PayPal API",
-        Link:"http://www.coraz0n.com/",
+        Link:"https://rob49157.github.io/final_corazon_page/",
         About:"E-Commerce site done for a client. The Payment processing is done with Paypal and Venmo API. The project is currently hosted on Heroku."
     },
     {
